@@ -20,7 +20,7 @@ public class DoSQLScript {
 	    //}
 	    DoSQLScript dss = new DoSQLScript();
 	    //dss.insertData(args[0]);
-	    String path = "Desktop/";
+	    String path = "/Desktop/";
 	    String[] fnames = {
 	    		"insert.instance.hsql.txt",
 	    		"insert.instancebill.hsql.txt",
